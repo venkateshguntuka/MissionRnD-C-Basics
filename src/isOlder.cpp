@@ -14,5 +14,6 @@ NOTES: 		Don't use any built-in C functions for comparisions. You are free to wr
 */
 
 int isOlder(char *dob1, char *dob2) {
+
 	return 0;
 }
